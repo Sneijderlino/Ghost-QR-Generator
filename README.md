@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="/img/awal.png">
+  <img src="/img/awal.png"/>
 </p>
 
 <h1 align="center">🚀 Ghost-QR Generator</h1>
