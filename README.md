@@ -1,8 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="/img/awal.png"/>
-</p>
-
+  <img src="/img/awal.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #961808;">
+</p
 <h1 align="center">🚀 Ghost-QR Generator</h1>
 <h3 align="center">Security Tool Developer</h3>
 
@@ -92,8 +91,8 @@ Ghost-QR Generator adalah sebuah alat berbahaya (security tool) yang dirancang u
 ## 🖥️ Preview Tool
 
 <p align="center">
-  <img src="./img/sampel.png" alt="Preview Ghost-QR" width="600"/>
-</p>
+  <img src="/img/view.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #961808;">
+</p
 
 ---
 
